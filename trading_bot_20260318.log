@@ -1,0 +1,11 @@
+2026-03-18 17:41:59 | INFO     | trading_bot | Logging initialised. Log file: C:\Users\kanak\Downloads\trading_bot_final\trading_bot_fresh\logs\trading_bot_20260318.log
+2026-03-18 17:41:59 | INFO     | trading_bot | Logging initialised. Log file: C:\Users\kanak\Downloads\trading_bot_final\trading_bot_fresh\logs\trading_bot_20260318.log
+2026-03-18 17:41:59 | INFO     | trading_bot | Logging initialised. Log file: C:\Users\kanak\Downloads\trading_bot_final\trading_bot_fresh\logs\trading_bot_20260318.log
+2026-03-18 17:46:50 | INFO     | trading_bot | Logging initialised. Log file: C:\Users\kanak\Downloads\trading_bot_final\trading_bot_fresh\logs\trading_bot_20260318.log
+2026-03-18 17:46:50 | INFO     | trading_bot | Logging initialised. Log file: C:\Users\kanak\Downloads\trading_bot_final\trading_bot_fresh\logs\trading_bot_20260318.log
+2026-03-18 17:46:50 | INFO     | trading_bot | Logging initialised. Log file: C:\Users\kanak\Downloads\trading_bot_final\trading_bot_fresh\logs\trading_bot_20260318.log
+2026-03-18 17:47:47 | INFO     | trading_bot | Placing order: {'symbol': 'BTCUSDT', 'side': 'BUY', 'type': 'LIMIT', 'quantity': 3.5, 'price': 4500.0, 'timeInForce': 'GTC'}
+2026-03-18 17:47:49 | ERROR    | trading_bot | API error -1013: Filter failure: PERCENT_PRICE_BY_SIDE
+2026-03-18 17:47:49 | ERROR    | trading_bot | Order placement failed: API error -1013: Filter failure: PERCENT_PRICE_BY_SIDE
+2026-03-18 17:52:14 | INFO     | trading_bot | Placing order: {'symbol': 'BTCUSDT', 'side': 'BUY', 'type': 'MARKET', 'quantity': 0.001}
+2026-03-18 17:52:17 | INFO     | trading_bot | Order response: {'symbol': 'BTCUSDT', 'orderId': 19716994, 'orderListId': -1, 'clientOrderId': 'FkBbzmXPoiZM36EMDr0PQD', 'transactTime': 1773836537322, 'price': '0.00000000', 'origQty': '0.00100000', 'executedQty': '0.00100000', 'origQuoteOrderQty': '0.00000000', 'cummulativeQuoteQty': '72.76786000', 'status': 'FILLED', 'timeInForce': 'GTC', 'type': 'MARKET', 'side': 'BUY', 'workingTime': 1773836537322, 'fills': [{'price': '72767.86000000', 'qty': '0.00100000', 'commission': '0.00000000', 'commissionAsset': 'BTC', 'tradeId': 3475501}], 'selfTradePreventionMode': 'EXPIRE_MAKER'}
